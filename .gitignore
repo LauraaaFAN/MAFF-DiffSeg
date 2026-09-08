@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+venv/
+conda-meta/
+
+# Data
+RawData/
+data/
+datasets/
+*.nii
+*.nii.gz
+*.npy
+*.npz
+*.h5
+*.hdf5
+
+# Checkpoints / weights
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+weights/
+models/
+
+# Logs and outputs
+logs/
+runs/
+outputs/
+results/
+analysis_outputs/
+*.log
+events.out.tfevents.*
+
+# Documents and private tables
+*.docx
+*.pdf
+*.xlsx
+*.csv
+
+# System
+.DS_Store
+Thumbs.db

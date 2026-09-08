@@ -1,0 +1,12 @@
+torch
+torchvision
+monai
+numpy
+scipy
+pandas
+matplotlib
+SimpleITK
+nibabel
+tqdm
+tensorboard
+einops
